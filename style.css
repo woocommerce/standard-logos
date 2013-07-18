@@ -1,0 +1,20 @@
+/*
+Theme Name: Logos Creative Child Theme for Standard
+Theme URI: https://github.com/eightbit/standard-child-theme-kit
+Version: 2.0.1
+Description: Logos Creative child theme for Standard 3
+Author: Logos Creative
+Author URI: http://logoscreative.co
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Template: standard
+*/
+
+/* Uncomment the @import line below to bring in Standard's CSS
+
+@import url( '../standard/style.css' );*/
+@import url( 'css/lib/font-awesome.min.css' );
+
+/* Uncomment this block below for default WordPress image styles
+
+a img.aligncenter{display:block;margin-left:auto;margin-right:auto;}.wp-caption{background:#fff;border:1px solid #f0f0f0;max-width:96%;text-align:center;padding:5px 3px 10px;}.wp-caption.alignright{margin:5px 0 20px 20px;}.wp-caption img{border:0 none;height:auto;max-width:98.5%;width:auto;margin:0;padding:0;}.wp-caption p.wp-caption-text{font-size:11px;line-height:17px;margin:0;padding:0 4px 5px;}.alignnone,a img.alignnone,.wp-caption.alignnone,.wp-caption.alignleft{margin:5px 20px 20px 0;}.aligncenter,div.aligncenter,.aligncenter{display:block;margin:5px auto;}.alignright,a img.alignright{float:right;margin:5px 0 20px 20px;}.alignleft,a img.alignleft{float:left;margin:5px 20px 20px 0;}*/
